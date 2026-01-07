@@ -1,0 +1,26 @@
+{
+  "name": "polygame-admin",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.5",
+    "pinia": "^2.1.7",
+    "axios": "^1.6.5",
+    "primevue": "^3.46.0",
+    "primeicons": "^6.0.1",
+    "chart.js": "^4.4.1",
+    "vue-chartjs": "^5.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0",
+    "typescript": "^5.3.3",
+    "vue-tsc": "^1.8.27"
+  }
+}
