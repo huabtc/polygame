@@ -1,0 +1,43 @@
+# Backend (Golang)
+backend/polygame-server
+backend/.env
+
+# Frontend (Vue)
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# Admin (Vue)
+admin/node_modules
+admin/dist
+admin/.env
+
+# Mobile (Flutter)
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/build/
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+mobile/android/.gradle
+mobile/android/app/*.apk
+mobile/android/app/*.aab
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
